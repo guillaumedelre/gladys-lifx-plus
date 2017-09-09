@@ -1,0 +1,18 @@
+{
+  "name": "gladys-lifx-plus",
+  "version": "0.1.0",
+  "description": "LifxPlus module for Gladys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys",
+    "lifx",
+    "module"
+  ],
+  "author": "Guillaume Delré",
+  "dependencies": {
+    "lifx-http-api": "1.0.3"
+  }
+}
