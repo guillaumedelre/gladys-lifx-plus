@@ -1,6 +1,6 @@
 {
   "name": "gladys-lifx-plus",
-  "version": "0.1.0",
+  "version": "0.2.2",
   "description": "LifxPlus module for Gladys",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   ],
   "author": "Guillaume Delré",
   "dependencies": {
-    "request-promise": "4.2.1"
+    "lifx-http-api": "1.0.3"
   }
 }
