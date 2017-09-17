@@ -4,9 +4,9 @@ module.exports = function(sails) {
 	const scan = require('./lib/scan.js');
     const setup = require('./lib/setup.js');
 
-	gladys.on('ready', function(){
-        scan();
-    });
+	// gladys.on('ready', function(){
+     //    scan();
+    // });
 
 	return {
         scan,
